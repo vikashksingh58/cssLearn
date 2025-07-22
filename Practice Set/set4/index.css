@@ -1,0 +1,28 @@
+#box1 {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    padding: 20px;
+    background-color: aqua;
+    box-sizing: border-box;
+    border: 2px dashed red;
+}
+#box2 {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    padding: 20px;
+    background-color: green;
+    box-sizing: content-box;
+    border: 2px dashed red;
+}
+
+#btn1 {
+    height: 60px;
+    width: 60px;
+    background-color: blue;
+    padding: 10px 15px;
+    margin: 100px;
+    border: 2px dashed red;
+    border-radius: 30px;
+}
